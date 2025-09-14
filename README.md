@@ -1,0 +1,2 @@
+# MastersSolitaire
+Classic Solitaire Game
