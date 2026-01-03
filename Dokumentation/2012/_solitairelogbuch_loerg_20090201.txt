@@ -1,0 +1,1169 @@
+id ohne parent=1000
+Texst liste =1
+Text name =Grand Solitaire Royale II
+id mit parent=1001
+gioobjekt konstruktor : parent->guiobjektliste anzahl =1
+Texst liste =1
+Text name =guiacceleratortabelle
+Available graphics modes : 102
+Grafikmodus : 
+Breite : 320
+Hoehe : 200
+Tiefe : 8
+Rate : 70
+Grafikmodus : 
+Breite : 320
+Hoehe : 200
+Tiefe : 16
+Rate : 70
+Grafikmodus : 
+Breite : 320
+Hoehe : 200
+Tiefe : 32
+Rate : 70
+Grafikmodus : 
+Breite : 320
+Hoehe : 240
+Tiefe : 8
+Rate : 70
+Grafikmodus : 
+Breite : 320
+Hoehe : 240
+Tiefe : 16
+Rate : 70
+Grafikmodus : 
+Breite : 320
+Hoehe : 240
+Tiefe : 32
+Rate : 70
+Grafikmodus : 
+Breite : 400
+Hoehe : 300
+Tiefe : 8
+Rate : 70
+Grafikmodus : 
+Breite : 400
+Hoehe : 300
+Tiefe : 16
+Rate : 70
+Grafikmodus : 
+Breite : 400
+Hoehe : 300
+Tiefe : 32
+Rate : 70
+Grafikmodus : 
+Breite : 512
+Hoehe : 384
+Tiefe : 8
+Rate : 70
+Grafikmodus : 
+Breite : 512
+Hoehe : 384
+Tiefe : 16
+Rate : 70
+Grafikmodus : 
+Breite : 512
+Hoehe : 384
+Tiefe : 32
+Rate : 70
+Grafikmodus : 
+Breite : 640
+Hoehe : 400
+Tiefe : 8
+Rate : 70
+Grafikmodus : 
+Breite : 640
+Hoehe : 400
+Tiefe : 16
+Rate : 70
+Grafikmodus : 
+Breite : 640
+Hoehe : 400
+Tiefe : 32
+Rate : 70
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 8
+Rate : 70
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 8
+Rate : 72
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 8
+Rate : 75
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 16
+Rate : 70
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 16
+Rate : 72
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 16
+Rate : 75
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 32
+Rate : 70
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 32
+Rate : 72
+Grafikmodus : 
+Breite : 640
+Hoehe : 480
+Tiefe : 32
+Rate : 75
+Grafikmodus : 
+Breite : 800
+Hoehe : 600
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 800
+Hoehe : 600
+Tiefe : 8
+Rate : 72
+Grafikmodus : 
+Breite : 800
+Hoehe : 600
+Tiefe : 8
+Rate : 75
+Grafikmodus : 
+Breite : 800
+Hoehe : 600
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 800
+Hoehe : 600
+Tiefe : 16
+Rate : 72
+Grafikmodus : 
+Breite : 800
+Hoehe : 600
+Tiefe : 16
+Rate : 75
+Grafikmodus : 
+Breite : 800
+Hoehe : 600
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 800
+Hoehe : 600
+Tiefe : 32
+Rate : 72
+Grafikmodus : 
+Breite : 800
+Hoehe : 600
+Tiefe : 32
+Rate : 75
+Grafikmodus : 
+Breite : 1024
+Hoehe : 768
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1024
+Hoehe : 768
+Tiefe : 8
+Rate : 70
+Grafikmodus : 
+Breite : 1024
+Hoehe : 768
+Tiefe : 8
+Rate : 75
+Grafikmodus : 
+Breite : 1024
+Hoehe : 768
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1024
+Hoehe : 768
+Tiefe : 16
+Rate : 70
+Grafikmodus : 
+Breite : 1024
+Hoehe : 768
+Tiefe : 16
+Rate : 75
+Grafikmodus : 
+Breite : 1024
+Hoehe : 768
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1024
+Hoehe : 768
+Tiefe : 32
+Rate : 70
+Grafikmodus : 
+Breite : 1024
+Hoehe : 768
+Tiefe : 32
+Rate : 75
+Grafikmodus : 
+Breite : 1152
+Hoehe : 864
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1152
+Hoehe : 864
+Tiefe : 8
+Rate : 75
+Grafikmodus : 
+Breite : 1152
+Hoehe : 864
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1152
+Hoehe : 864
+Tiefe : 16
+Rate : 75
+Grafikmodus : 
+Breite : 1152
+Hoehe : 864
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1152
+Hoehe : 864
+Tiefe : 32
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 600
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 600
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 600
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 720
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 720
+Tiefe : 8
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 720
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 720
+Tiefe : 16
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 720
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 720
+Tiefe : 32
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 768
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 768
+Tiefe : 8
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 768
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 768
+Tiefe : 16
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 768
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 768
+Tiefe : 32
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 960
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 960
+Tiefe : 8
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 960
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 960
+Tiefe : 16
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 960
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 960
+Tiefe : 32
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 1024
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 1024
+Tiefe : 8
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 1024
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 1024
+Tiefe : 16
+Rate : 75
+Grafikmodus : 
+Breite : 1280
+Hoehe : 1024
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1280
+Hoehe : 1024
+Tiefe : 32
+Rate : 75
+Grafikmodus : 
+Breite : 1400
+Hoehe : 1050
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1400
+Hoehe : 1050
+Tiefe : 8
+Rate : 75
+Grafikmodus : 
+Breite : 1400
+Hoehe : 1050
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1400
+Hoehe : 1050
+Tiefe : 16
+Rate : 75
+Grafikmodus : 
+Breite : 1400
+Hoehe : 1050
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1400
+Hoehe : 1050
+Tiefe : 32
+Rate : 75
+Grafikmodus : 
+Breite : 1600
+Hoehe : 900
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1600
+Hoehe : 900
+Tiefe : 8
+Rate : 75
+Grafikmodus : 
+Breite : 1600
+Hoehe : 900
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1600
+Hoehe : 900
+Tiefe : 16
+Rate : 75
+Grafikmodus : 
+Breite : 1600
+Hoehe : 900
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1600
+Hoehe : 900
+Tiefe : 32
+Rate : 75
+Grafikmodus : 
+Breite : 1600
+Hoehe : 1200
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1600
+Hoehe : 1200
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1600
+Hoehe : 1200
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1680
+Hoehe : 1050
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1680
+Hoehe : 1050
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1680
+Hoehe : 1050
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1920
+Hoehe : 1080
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1920
+Hoehe : 1080
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1920
+Hoehe : 1080
+Tiefe : 32
+Rate : 60
+Grafikmodus : 
+Breite : 1920
+Hoehe : 1200
+Tiefe : 8
+Rate : 60
+Grafikmodus : 
+Breite : 1920
+Hoehe : 1200
+Tiefe : 16
+Rate : 60
+Grafikmodus : 
+Breite : 1920
+Hoehe : 1200
+Tiefe : 32
+Rate : 60
+Laden bild : ../solitaire/daten/fantasy/logo/Suricate_logo_big.jpg
+JPG soll geladen werden : ../solitaire/daten/fantasy/logo/Suricate_logo_big.jpg
+struct size decompress =432
+Dateigroesse : 26967
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/logo/BFG_splash_1024x768.jpg
+JPG soll geladen werden : ../solitaire/daten/fantasy/logo/BFG_splash_1024x768.jpg
+struct size decompress =432
+Dateigroesse : 140376
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/logo/Suricate_logo_small.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/logo/Suricate_logo_big.jpg
+JPG soll geladen werden : ../solitaire/daten/fantasy/logo/Suricate_logo_big.jpg
+struct size decompress =432
+Dateigroesse : 26967
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Font laden : 
+Font Header = BMF
+Font Version = 3
+blocktype ======================= 1
+blocksize = 22
+Fontname = Dauphin
+Fontgroesse = 48
+blocktype ======================= 2
+blocksize = 15
+Font Zeilen Abstand = 47
+blocktype ======================= 3
+blocksize = 17
+Font Textur Name = dauphin48_00.tga
+blocktype ======================= 4
+blocksize = 3780
+Font Anzahl Zeichen = 189
+blocktype ======================= 5
+blocksize = 1360
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Font laden : 
+Font Header = BMF
+Font Version = 3
+blocktype ======================= 1
+blocksize = 22
+Fontname = Dauphin
+Fontgroesse = 30
+blocktype ======================= 2
+blocksize = 15
+Font Zeilen Abstand = 30
+blocktype ======================= 3
+blocksize = 17
+Font Textur Name = dauphin30_00.tga
+blocktype ======================= 4
+blocksize = 3780
+Font Anzahl Zeichen = 189
+blocktype ======================= 5
+blocksize = 1280
+Laden bild : ../solitaire/daten/fantasy/gui/rose3.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Wolle a statistik laden : coutn =77
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+typ =_gamestats
+Statistics loaded.
+BENUTZERVERWALTUNG LADEN usercount =0
+BENUTZERVERWALTUNG LADEN USERBNAME =
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Font laden : 
+Font Header = BMF
+Font Version = 3
+blocktype ======================= 1
+blocksize = 22
+Fontname = Dauphin
+Fontgroesse = 64
+blocktype ======================= 2
+blocksize = 15
+Font Zeilen Abstand = 64
+blocktype ======================= 3
+blocksize = 17
+Font Textur Name = dauphin64_00.tga
+blocktype ======================= 4
+blocksize = 3780
+Font Anzahl Zeichen = 189
+blocktype ======================= 5
+blocksize = 1390
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Font laden : 
+Font Header = BMF
+Font Version = 3
+blocktype ======================= 1
+blocksize = 22
+Fontname = Dauphin
+Fontgroesse = 14
+blocktype ======================= 2
+blocksize = 15
+Font Zeilen Abstand = 14
+blocktype ======================= 3
+blocksize = 17
+Font Textur Name = dauphin14_00.tga
+blocktype ======================= 4
+blocksize = 3780
+Font Anzahl Zeichen = 189
+blocktype ======================= 5
+blocksize = 1010
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Font laden : 
+Font Header = BMF
+Font Version = 3
+blocktype ======================= 1
+blocksize = 22
+Fontname = Dauphin
+Fontgroesse = 24
+blocktype ======================= 2
+blocksize = 15
+Font Zeilen Abstand = 24
+blocktype ======================= 3
+blocksize = 17
+Font Textur Name = dauphin24_00.tga
+blocktype ======================= 4
+blocksize = 3780
+Font Anzahl Zeichen = 189
+blocktype ======================= 5
+blocksize = 1230
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Font laden : 
+Font Header = BMF
+Font Version = 3
+blocktype ======================= 1
+blocksize = 22
+Fontname = Dauphin
+Fontgroesse = 10
+blocktype ======================= 2
+blocksize = 15
+Font Zeilen Abstand = 10
+blocktype ======================= 3
+blocksize = 17
+Font Textur Name = dauphin10_00.tga
+blocktype ======================= 4
+blocksize = 3780
+Font Anzahl Zeichen = 189
+blocktype ======================= 5
+blocksize = 870
+Laden bild : ../solitaire/daten/fantasy/gui/window_512_750_3.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/window_950_950_13.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/window_512_256_3.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/window_256_256_3.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/window_950_550_5.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/guihelp_300_180.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/guihelp_512_80.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/guihelp_512_111.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/guihelp_512_180.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/guihelp_839_124.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/guihelp_850_93.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/guihelp_243_89.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_schatten.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_schatten_on.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_schatten_son.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/check3.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/donut2.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/donutred.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/donutgreen.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/donutblue.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/black.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/frame3.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/frame2.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/rose05.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/verlauf_normalbereich.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/trackbar.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/trackbar_button2.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/listbox_large.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/scrollbar.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/scrollbarbutton.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/scrollbarhorizontal.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_large.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_large_on.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_large_son.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_medium.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_medium_on.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_medium_son.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_smallmedium.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_smallmedium_on.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_smallmedium_son.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_small.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_small_on.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_small_son.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_micro.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_micro_on.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/button_neu_micro_son.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/checkbox2.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/checkbox2_on.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/listbox_button_up.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/gui/listbox_button_down.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+_tonopenal::laden : erfolgreich.
+_tonopenal::laden : erfolgreich.
+_tonopenal::laden : erfolgreich.
+_tonopenal::laden : erfolgreich.
+_tonopenal::laden : erfolgreich.
+_tonopenal::laden : erfolgreich.
+_tonopenal::laden : erfolgreich.
+_tonopenal::laden : erfolgreich.
+_tonopenal::laden : erfolgreich.
+_tonopenal::laden : erfolgreich.
+_tonopenal::laden : erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/figure/prinzessin.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/figure/dame.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/figure/ritter.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/figure/zauberer.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/figure/fee.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/figure/drachen.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/figure/koenig.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/figure/lehrerin.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/logo/logo03.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/scene/table_07_2048_1024.jpg
+JPG soll geladen werden : ../solitaire/daten/fantasy/scene/table_07_2048_1024.jpg
+struct size decompress =432
+Dateigroesse : 896661
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/scene/table_07_2048_1024hl.jpg
+JPG soll geladen werden : ../solitaire/daten/fantasy/scene/table_07_2048_1024hl.jpg
+struct size decompress =432
+Dateigroesse : 1513633
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/scene/scene_02_0.jpg
+JPG soll geladen werden : ../solitaire/daten/fantasy/scene/scene_02_0.jpg
+struct size decompress =432
+Dateigroesse : 965247
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/scene/scene_02_1.jpg
+JPG soll geladen werden : ../solitaire/daten/fantasy/scene/scene_02_1.jpg
+struct size decompress =432
+Dateigroesse : 817402
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/scene/scene_02_2.jpg
+JPG soll geladen werden : ../solitaire/daten/fantasy/scene/scene_02_2.jpg
+struct size decompress =432
+Dateigroesse : 837389
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/scene/scene_00_fireplace_woodglow.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/scene/candleholder_menu.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden bild : ../solitaire/daten/fantasy/scene/candleholder_game.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/empty.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/emptykey.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol_suit0.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol_suit1.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol_suit2.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol_suit3.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol_suit0rand.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol_suit1rand.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol_suit2rand.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol_suit3rand.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolA.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol2.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol3.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol4.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol5.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol6.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol7.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol8.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol9.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbol10.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolB.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolD.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolK.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbolA.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbol2.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbol3.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbol4.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbol5.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbol6.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbol7.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbol8.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbol9.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbol10.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbolB.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbolD.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolnumbersmall/symbolK.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolfine2.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/symbolddd.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/0.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/numbersmall/0.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/1.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/numbersmall/1.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/2.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/numbersmall/2.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/3.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/numbersmall/3.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/4.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/numbersmall/4.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/5.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/numbersmall/5.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/6.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/numbersmall/6.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/7.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/numbersmall/7.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/8.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/numbersmall/8.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/9.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/game/numbersmall/9.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/fire01.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/fire03.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/fire04.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/fire05.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/fire06.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/fire07.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/firecandle.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/wolke00.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/shadow3232.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/shadow16.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/corona00.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/corona06red.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/corona01blue.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/coronawhite.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/funken00.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/digit00.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/digit00h.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/digit00s.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+Laden textur : ../solitaire/daten/fantasy/effect/pendulum01.tga
+_bildtga<_tb> : Laden eines Bildes erfolgreich.
+_cardsetmanager::loadcardset : cardsets\_00_back_00.sol
+_ist back : cardsets\_00_back_00.sol
+cardset::loadcardset : 0
+_cardsetmanager::loadcardset : cardsets\_00_back_01.sol
+_ist back : cardsets\_00_back_01.sol
+cardset::loadcardset : 2
+_cardsetmanager::loadcardset : cardsets\_00_front_00.sol
+_ist front : cardsets\_00_front_00.sol
+cardset::loadcardset : 0
+_cardsetmanager::loadcardset : cardsets\_00_front_01.sol
+_ist front : cardsets\_00_front_01.sol
+cardset::loadcardset : 0
+_cardsetmanager::loadcardset : cardsets\_01_back_00.sol
+_ist back : cardsets\_01_back_00.sol
+cardset::loadcardset : 0
+_cardsetmanager::loadcardset : cardsets\_01_back_01.sol
+_ist back : cardsets\_01_back_01.sol
+cardset::loadcardset : 0
+_cardsetmanager::loadcardset : cardsets\_01_back_02.sol
+_ist back : cardsets\_01_back_02.sol
+cardset::loadcardset : 0
+_cardsetmanager::loadcardset : cardsets\_01_back_03.sol
+_ist back : cardsets\_01_back_03.sol
+cardset::loadcardset : 0
+_cardsetmanager::loadcardset : cardsets\_01_back_04.sol
+_ist back : cardsets\_01_back_04.sol
+cardset::loadcardset : 0
+_cardsetmanager::loadcardset : cardsets\_01_back_05.sol
+_ist back : cardsets\_01_back_05.sol
+cardset::loadcardset : 0
+_cardsetmanager::loadcardset : cardsets\_01_front_00.sol
+_ist front : cardsets\_01_front_00.sol
+cardset::loadcardset : 0
+_cardsetmanager::loadcardset : cardsets\_01_front_01.sol
+_ist front : cardsets\_01_front_01.sol
+cardset::loadcardset : 1
+_cardsetmanager::loadcardset : cardsets\_02_front_00.sol
+_ist front : cardsets\_02_front_00.sol
+cardset::loadcardset : 1

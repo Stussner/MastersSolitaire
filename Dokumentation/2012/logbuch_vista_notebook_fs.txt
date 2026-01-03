@@ -1,0 +1,53 @@
+Aktueller Videomodus ist : 
+1280 Pixel Breite
+800 Pixel Höhe
+32 Bits per Pixel
+60Hz Refreshrate
+
+ 
+Die Liste der von Dx7 unterstütze Videomodi auf diesem System mit Angabe der Bildrate: 
+320 Pixel Breite, 200 Pixel Höhe, 8 Bits per Pixel, 60Hz Refreshrate
+320 Pixel Breite, 200 Pixel Höhe, 16 Bits per Pixel, 60Hz Refreshrate
+320 Pixel Breite, 200 Pixel Höhe, 32 Bits per Pixel, 60Hz Refreshrate
+512 Pixel Breite, 384 Pixel Höhe, 8 Bits per Pixel, 60Hz Refreshrate
+512 Pixel Breite, 384 Pixel Höhe, 16 Bits per Pixel, 60Hz Refreshrate
+512 Pixel Breite, 384 Pixel Höhe, 32 Bits per Pixel, 60Hz Refreshrate
+640 Pixel Breite, 400 Pixel Höhe, 8 Bits per Pixel, 60Hz Refreshrate
+640 Pixel Breite, 400 Pixel Höhe, 16 Bits per Pixel, 60Hz Refreshrate
+640 Pixel Breite, 400 Pixel Höhe, 32 Bits per Pixel, 60Hz Refreshrate
+640 Pixel Breite, 480 Pixel Höhe, 8 Bits per Pixel, 60Hz Refreshrate
+640 Pixel Breite, 480 Pixel Höhe, 16 Bits per Pixel, 60Hz Refreshrate
+640 Pixel Breite, 480 Pixel Höhe, 32 Bits per Pixel, 60Hz Refreshrate
+800 Pixel Breite, 600 Pixel Höhe, 8 Bits per Pixel, 60Hz Refreshrate
+800 Pixel Breite, 600 Pixel Höhe, 16 Bits per Pixel, 60Hz Refreshrate
+800 Pixel Breite, 600 Pixel Höhe, 32 Bits per Pixel, 60Hz Refreshrate
+1024 Pixel Breite, 768 Pixel Höhe, 8 Bits per Pixel, 60Hz Refreshrate
+1024 Pixel Breite, 768 Pixel Höhe, 16 Bits per Pixel, 60Hz Refreshrate
+1024 Pixel Breite, 768 Pixel Höhe, 32 Bits per Pixel, 60Hz Refreshrate
+1280 Pixel Breite, 800 Pixel Höhe, 8 Bits per Pixel, 60Hz Refreshrate
+1280 Pixel Breite, 800 Pixel Höhe, 16 Bits per Pixel, 60Hz Refreshrate
+1280 Pixel Breite, 800 Pixel Höhe, 32 Bits per Pixel, 60Hz Refreshrate
+ 
+Die Liste der von Dx7 unterstütze Videomodi auf diesem System ohne Angabe der Bildrate: 
+320 Pixel Breite, 200 Pixel Höhe, 8 Bits per Pixel, 0Hz Refreshrate
+320 Pixel Breite, 200 Pixel Höhe, 16 Bits per Pixel, 0Hz Refreshrate
+320 Pixel Breite, 200 Pixel Höhe, 32 Bits per Pixel, 0Hz Refreshrate
+512 Pixel Breite, 384 Pixel Höhe, 8 Bits per Pixel, 0Hz Refreshrate
+512 Pixel Breite, 384 Pixel Höhe, 16 Bits per Pixel, 0Hz Refreshrate
+512 Pixel Breite, 384 Pixel Höhe, 32 Bits per Pixel, 0Hz Refreshrate
+640 Pixel Breite, 400 Pixel Höhe, 8 Bits per Pixel, 0Hz Refreshrate
+640 Pixel Breite, 400 Pixel Höhe, 16 Bits per Pixel, 0Hz Refreshrate
+640 Pixel Breite, 400 Pixel Höhe, 32 Bits per Pixel, 0Hz Refreshrate
+640 Pixel Breite, 480 Pixel Höhe, 8 Bits per Pixel, 0Hz Refreshrate
+640 Pixel Breite, 480 Pixel Höhe, 16 Bits per Pixel, 0Hz Refreshrate
+640 Pixel Breite, 480 Pixel Höhe, 32 Bits per Pixel, 0Hz Refreshrate
+800 Pixel Breite, 600 Pixel Höhe, 8 Bits per Pixel, 0Hz Refreshrate
+800 Pixel Breite, 600 Pixel Höhe, 16 Bits per Pixel, 0Hz Refreshrate
+800 Pixel Breite, 600 Pixel Höhe, 32 Bits per Pixel, 0Hz Refreshrate
+1024 Pixel Breite, 768 Pixel Höhe, 8 Bits per Pixel, 0Hz Refreshrate
+1024 Pixel Breite, 768 Pixel Höhe, 16 Bits per Pixel, 0Hz Refreshrate
+1024 Pixel Breite, 768 Pixel Höhe, 32 Bits per Pixel, 0Hz Refreshrate
+1280 Pixel Breite, 800 Pixel Höhe, 8 Bits per Pixel, 0Hz Refreshrate
+1280 Pixel Breite, 800 Pixel Höhe, 16 Bits per Pixel, 0Hz Refreshrate
+1280 Pixel Breite, 800 Pixel Höhe, 32 Bits per Pixel, 0Hz Refreshrate
+

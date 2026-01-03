@@ -1,0 +1,143 @@
+Projekt : Fanstasy Solitaire
+Thema : zu-tun-Liste
+Datum der Erzeugung : 14.11.2007
+Datum der letzen Änderung : 16.01.2008
+Bearbeiter : RH 
+--------------------------------------
+
+* : nicht begonnen
+| : in Bearbeitung
+- : abgeschlossen
+
+--------------------------------------
+
+
+GENERELLE MAßNAHMEN
+
+
+Spiel:
+- restliche 1 von 23 Solitairetypen implementieren (Blanket)
+| Spieltypenzahl erhöhen
+- Osmosis
+- Aces Up
+- Sparkling Maus (Entwurf)
+- gute Hints bzw Hintentwurf klären (!)
+- Input für automatisch auszuführenden Hint einbinden (zB rechtsklick)
+- Tastaturinput für redo und undo einbinden
+- Karten(reihen) , die pickbar sind, grafisch anzeigen
+- generelles Autoplay
+- Spielendebedingungen weiter ausbauen
+| schwierigkeitsregler integrieren (!)
+- Freecellautomatik:
+<<Allerdings stehen hierzu einige Fragen im Raum, z.B. Soll etwas mit
+den Freecells automatisiert werden ? Die Antwort fällt schwer, da es
+oft von der momentanen Strategie abhängt, was mit den Freecells
+passieren soll.
+Ausserdem ist die Prioritätsregeln , möglichst lange Reihen zu bilden,
+nicht angemessen oder?>>
+<Stimmt, die Automatik ist hier etwas schwieriger. Die Automatik von 
+Hardwood ist hier sehr bescheiden: es werden nur Tipps gegeben, wenn auf 
+dem Spielfeld Karten bewegt werden können, gefällt mir gar nicht. Ich 
+würde eine Priorität dahingehend sehen, Karten freizulegen, die auf die 
+Ablagestapel passen und zwar vorzugsweise je niedriger, desto höher die 
+Priorität. Also: wenn kein Move auf dem Spielfeld möglich ist, dann Ass 
+freilegen, dass mit den wenigsten Karten blockier ist. Wenn das nicht 
+möglich ist, dann eine Karte auf auf ein Zwischenablagefeld legen, die 
+weitere Moves auf dem Spielfeld ermöglicht. Die Lösung ist zwar nicht 
+100% sinnvoll, jedoch immerhin schon besser, als was Hardwood bietet.>
+
+
+
+
+
+
+Szenengeometrie:
+- Kartenabstand von erster offener Karte soll cardtableaushiftbacksided von der nächsten (nextlink) Karte entfernt sein
+- Kartenabstände weich zusammenschieben wenn Kartenreihe aus dem Bildschirm reicht
+- Natural Piles-Parameter anwenden
+- bei cancan und blanket die kameraposition zurückschieben 
+* alternativer Pickslope 
+
+Animation:
+- bei (präparativer) Animation : Bei gedrückter (Maus-)taste überspringen.
+* evtl. Animationsgeschwindigkeitsregler im Menü anwenden
+* Kartenmischen simulieren
+
+Optik:
+- Polygonklasse erweitern : Emission (Emissionsregeler für karten im Optionen-graphics Menü einführen)
+- schattenanalytik zur Kompensation von ungebufferten Schatten
+
+Menü und Rahmen:
+* Userverwaltung integrieren 
+* Menübuch (als neues gui-Element) einbinden für Charakterwahl und Kartentexturwahl
+- Optionsmenü umgestalten/vereinfachen  (kein "Settings", "Kredits", "Help" , keine weiteren Untermenüs auf der Tafel, stattdessen rechtsstehende separate Buttons "Audio/Video", "Graphics", "Geometry", "Game", "Cards & Decks"
+- Weltzeichnung anwenden : Kerzenflamme und Feuer machen.
+| Szenenvorschau im Gametype Menü (schnellvorschau, evtl Demoplay)
+* Hilfsbeschreibungen ins Gametype Menü einbauen
+- Listboxbuttons anwenden (up,down)
+- Speicher- und Ladbarkeit der Szene mit vollständiger Detailspeicherung (vorsicht bei absoluten Zeitkoordinaten) . Für jeden Benutzer soll es eine Speicherszene geben) (!)
+| Dx reload bei Task switch und Fenstermodus (!)
+
+
+
+Bekannte Probleme:
+*wird eine Rücksortierung von Waste nach Stock durchgeführt, dann wird der redealcounter inkrementiert. Wird anschließend undo gedrückt, wird der redealcoutner nicht wieder dekrementiert. Gilt auch für die Klasse _pileredeal
+
+Gegenprüfungen :
+- [23:45] orion: bei dem blanket ist heut folgendes passiert: karte gepickt über redeal stapel zufäälig drüber gezogen=> es wurde redealt. die karte die gepickt war wurde verdeckt herum einsortieret und ließ sich nicht mehr anheben. war version, die du mir am 20. 11 geschickt hast
+
+-(verfikation)JH:mir ist ein Bug bei Undo/Redo aufgefallen. Lad mal das angehängte Spiel. 
+Auf der rechten Seite sind Karo 10 und Karo 9. Wenn du zwei Undo machst, 
+wird erst das Pik Ass und dann die beiden Karos zurückbewegt. Die beiden 
+Karos werden dann allerdings in der umgekehrten Reihenfolge hingelegt.
+
+SHEEPWORLD MAßNAHMEN
+
+- viel am optionsdialog (aussehen, knöpfte, beschriftung, ggf. hilfe)
+- ein paar gui images müssen noch ausgetauscht werden
+- laden und speichern der menüeinstellungen
+- sicherheitsabfragen (bei verlassen, beim neustarten etc...)
+- Dialog für highscorenamen
+- button images besser machen
+- button beschriftung besser machen
+- sheep-figuren animation (szenenabhängig)
+- weitere Schaltfläche für Kartenfrontseite im Hauptmenü machen
+* dynamisch erweiterbare Kartendecks 
+* verpackte Kartentexturen im Verzeichnis
+| sound
+| Button oben rechts "Aufbau": (Gametypemenü)
+Wenn man bei Mäh Jongg darauf klickt, gelangt man zu einem Bildschirm, wo der jeweilige Aufbau gewählt werden kann. Analog hierzu soll bei Solitaire ein Bildschirm erscheinen, wo der jeweilige Spieltyp gewählt werden kann, ähnlich wie es jetzt schon implementiert ist. Zusätzlich sollen hier aber noch einen Screenshot und die Regeln untergebracht werden. Standardmäßig sollte hier wohl Klondike (weil am bekanntesten) eingestellt sein. Das ausgewählte Spiel wird auch gleichzeitig in der Mitte des Haupmenü-Bildschirms dargestellt. Allerdings etwas verkleinert, damit alle Buttons und auch das Hintergrundbild zur Geltung kommen. Für Mahjongg benutzen wir bei Spielbeginn einen Kamerazoom, um auf die richtige Distanz zu kommen. Für Solitaire ist das technisch wahrscheinlich nicht so einfach umzusetzen, ein einfaches Überblenden wäre schon ausreichend. Ich bin hier für jeden Vorschlag offen.
+
+- zweiter Button oben rechts "Steine":
+Bei Mahjongg gibt es verschiedene Steinsets, die für das Spiel gewählt werden können. Analog hierzu soll es bei Solitaire möglich sein, hier verschiedene Kartenblätter zu wählen. Zur Zeit haben wir erst eines, es sollen aber noch mehrere hinzu kommen. Für sheepworld Solitaire werden extra noch welche erstellt. Bei Mahjongg ist es nicht implementiert, aber für Solitaire halte ich es für sinnvoll auch hier einen neuen Bildschirm aufzumachen, um das Kartenblatt zu wählen, denn wir haben ja nicht nur die Vorderseite, sondern auch Rückseiten.
+
+- dritter Button oben rechts "Szene":
+Bei Mahjongg wird hier das Hintergrundbild (siehe Grafiken sheep_Backgroundx.pcx) und Animationen gewählt, soll so auch bei Solitaire umgesetzt werden. Bei Änderung wird dies direkt im Hauptmenü sichtbar.
+
+- vierter Button oben rechts "Musik"
+hier wird die Musik gewählt. Bei Mahjongg haben wir das so gemacht, dass jede Szene einen anderen Starttitel hat. Danach werden aber die restlichen Songs sequentiell abgespielt. Bei Änderung wird direkt der neue Song gespielt (nicht erst, wenn der Level startet).
+
+-Dann haben wir im Hauptmenü auf der linken Seite noch die Optionen (gleiche Funktion, wie jetzt schon implementiert) und Beenden (sollte klar sein, was fehlt ist die Sicherheitsabfrage: "Spiel beenden Ja/Nein")).
+Darunter sind der Highscore und die Statistiken zum jeweils gewählten Spieltyp.
+
+-Zu den Grafiken, die ich dir geschickt habe: einige dürften selbsterklärend sein (z.B. Bee_summer+4.tga) andere sind auch mir nicht klar (bu_fond_YesNo.pcx). ;-) Du mußt nicht alle Grafiken einbauen, wahrscheinlich werden sowieso ein Großteil im Moment gar nicht gebraucht (in der Demoversion braucht z.B. keine Animationen zu sein).
+Wir habe nur zwei Stadien für die Buttons, es sollten aber drei sein (Button inaktiv, Button mouse over, Button gedrückt). 
+Wir haben alle Buttons als Grafiken eingebunden (also nicht die Beschriftung als String), weil wir die sheepworld Schrift übernehmen mußten. Da, wo keine sheepworld Schrift nötig ist, nehmen wir natürlich einen besser lesbaren und auf jedem Rechner verfügbaren Schrifttyp.
+
+* GAME MENUE :
+<<Im Moment erscheint mir der Platzbedarf des Gamemenüs zu hoch. Selbst
+wenn jetzt der Automatik Knopf noch wegfällt. Deshalb
+sollte man später mal die Knöpfe kleiner machen ?>>
+<Könnten wir machen, allerdings werden dann eventuell die 
+Menübeschriftungen zu lang. Eventuell trennen wir das und nehmen zwei 
+Sorten von Buttons (so wie bei Magic Mahjongg): Die größeren für die 
+längeren Worte, die mit der Spielverwaltung zu tun haben, also 
+"Hauptmenü", "Optionen" (soll noch ins Spiel rein) etc. Vielleicht 
+sollten wir diese dann horizontal oben anordnen? Für die Gameplay 
+Buttons könnten wir dann kleinere nehmen, die Worte sind recht kurz, 
+bzw. durch Symbole darstellbar: Neu, Tipp, Undo, Redo, Speichern 
+(Diskettensymbol), Laden (Open Folder symbol, wie bei Word) und diese 
+sollten dann auch vertikal links angeordnet bleiben. Oder sollen wir 
+diese am unteren Bildrand horizontal anordnen? Dann wäre natürlich 
+deutlich mehr Platz auf dem Spielfeld und die Karten könnten größer 
+gezeichnet werden, was für die Spielbarkeit wohl recht angenehm sein könnte.
